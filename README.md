@@ -1,3 +1,8 @@
+https://github.com/smol-ai/GodMode
+
+
+
+
 Great! Your system has a single GPU detected:
 
 - **Vendor:** Intel  
